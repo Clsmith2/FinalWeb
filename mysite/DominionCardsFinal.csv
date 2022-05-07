@@ -1,0 +1,660 @@
+﻿Amulet,Adventures,Action - Duration,3,0,0,0,1,1,0,0,1,0
+Artificer,Adventures,Action,5,1,1,0,1,0,0,0,1,0
+Bridge_Troll,Adventures,Action - Attack - Duration,5,0,0,1,1,0,0,0,0,0
+Caravan_Guard,Adventures,Action - Duration - Reaction,3,1,1,0,1,0,0,0,0,0
+Coin_of_the_Realm,Adventures,Treasure - Reserve,2,1,0,0,1,0,0,0,0,0
+Distant_Lands,Adventures,Action - Reserve - Victory,5,0,0,0,0,0,0,0,0,1
+Dungeon,Adventures,Action - Duration,3,1,1,0,0,0,0,0,0,0
+Duplicate,Adventures,Action - Reserve,4,0,0,0,0,0,0,0,1,0
+Gear,Adventures,Action - Duration,3,0,1,0,0,0,0,0,0,0
+Giant,Adventures,Action - Attack,5,0,0,0,1,0,0,1,0,0
+Guide,Adventures,Action - Reserve,3,1,1,0,0,0,0,0,0,0
+Haunted_Woods,Adventures,Action - Attack - Duration,5,0,1,0,0,0,0,0,0,0
+Hireling,Adventures,Action - Duration,6,0,1,0,0,0,0,0,0,0
+Lost_City,Adventures,Action,5,1,1,0,0,0,0,0,0,0
+Magpie,Adventures,Action,4,1,1,0,0,0,0,0,1,0
+Messenger,Adventures,Action,4,0,0,1,1,0,0,0,0,0
+Miser,Adventures,Action,4,0,0,0,1,1,0,0,0,0
+Page,Adventures,Action - Traveller,2,1,1,0,0,1,0,0,0,0
+Peasant,Adventures,Action - Traveller,2,0,0,1,1,1,0,0,0,0
+Port,Adventures,Action,4,1,1,0,0,0,0,0,1,0
+Ranger,Adventures,Action,4,0,1,1,0,0,0,0,0,0
+Ratcatcher,Adventures,Action - Reserve,2,1,1,0,0,1,0,0,0,0
+Raze,Adventures,Action,2,1,1,0,0,1,0,0,0,0
+Relic,Adventures,Treasure - Attack,5,0,0,0,1,0,0,0,0,0
+Royal_Carriage,Adventures,Action - Reserve,5,1,0,0,0,0,0,0,0,0
+Storyteller,Adventures,Action,5,1,1,0,1,0,0,0,0,0
+Swamp_Hag,Adventures,Action - Attack - Duration,5,0,0,0,1,0,0,1,0,0
+Transmogrify,Adventures,Action - Reserve,4,1,0,0,0,1,0,0,1,0
+Treasure_Trove,Adventures,Treasure,5,0,0,0,1,0,0,1,1,0
+Wine_Merchant,Adventures,Action - Reserve,5,0,0,1,1,0,0,0,0,0
+Alchemist,Alchemy,Action,P,1,1,0,0,0,0,0,0,0
+Apothecary,Alchemy,Action,P,1,1,0,0,0,0,0,0,0
+Apprentice,Alchemy,Action,5,1,1,0,0,1,0,0,0,0
+Familiar,Alchemy,Action - Attack,P,1,1,0,0,0,0,1,0,0
+Golem,Alchemy,Action,P,1,0,0,0,0,0,0,0,0
+Herbalist,Alchemy,Action,2,0,0,1,1,0,0,0,0,0
+Philosopher's_Stone,Alchemy,Treasure,P,0,0,0,1,0,0,0,0,0
+Possession,Alchemy,Action,P,0,0,0,0,0,0,0,1,0
+Scrying_Pool,Alchemy,Action - Attack,P,1,1,0,0,0,0,0,0,0
+Transmute,Alchemy,Action,P,0,0,0,0,1,0,0,1,0
+University,Alchemy,Action,P,1,0,0,0,0,0,0,1,0
+Vineyard,Alchemy,Victory,P,0,0,0,0,0,0,0,0,1
+Augur,Allies,Action,3,0,0,0,0,0,0,0,0,0
+Clash,Allies,Action,3,0,0,0,0,0,0,0,0,0
+Barbarian,Allies,Action - Attack,5,0,0,0,1,0,0,0,0,0
+Bauble,Allies,Treasure - Liaison,2,0,0,1,1,0,0,0,0,0
+TownsfolkAllies,Allies,Action,2,1,1,0,0,0,0,0,0,0
+Broker,Allies,Action - Liaison,4,1,1,0,1,1,0,0,0,0
+Capital_City,Allies,Action,5,1,1,0,1,0,0,0,0,0
+Carpenter,Allies,Action,4,1,0,0,0,1,0,0,1,0
+Wizards,Allies,Action,3,0,0,0,0,0,0,0,0,0
+Contract,Allies,Treasure - Duration - Liaison,5,1,0,0,1,0,0,0,0,0
+Courier,Allies,Action,4,1,0,0,1,0,0,0,0,0
+Odyssys,Allies,Action,3,0,0,0,0,0,0,0,0,0
+Emissary,Allies,Action - Liaison,5,1,1,0,0,0,0,0,0,0
+Galleria,Allies,Action,5,0,0,1,0,0,0,0,0,0
+Forts,Allies,Action,3,0,0,0,0,0,0,0,0,0
+Guildmaster,Allies,Action - Liaison,5,0,0,0,1,0,0,0,0,0
+Highwayman,Allies,Action - Duration - Attack,5,0,1,0,0,0,0,0,0,0
+Hunter,Allies,Action,5,1,1,0,0,0,0,0,0,0
+Importer,Allies,Action - Duration - Liaison,3,0,0,0,0,0,0,0,1,0
+Innkeeper,Allies,Action,4,1,1,0,0,0,0,0,0,0
+Marquis,Allies,Action,6,0,1,1,0,0,0,0,0,0
+Merchant_Camp,Allies,Action,3,1,0,0,1,0,0,0,0,0
+Modify,Allies,Action,5,1,1,0,0,1,0,0,1,0
+Royal_Galley,Allies,Action - Duration,4,1,1,0,0,0,0,0,0,0
+Sentinel,Allies,Action,3,0,0,0,0,1,0,0,0,0
+Skirmisher,Allies,Action - Attack,5,1,1,0,1,0,0,0,0,0
+Specialist,Allies,Action,5,1,0,0,0,0,0,0,1,0
+Swap,Allies,Action,5,1,1,0,0,1,0,0,1,0
+Sycophant,Allies,Action - Liaison,2,1,1,0,1,0,0,0,0,0
+Town,Allies,Action,4,1,1,1,1,0,0,0,0,0
+Underling,Allies,Action - Liaison,3,1,1,0,0,0,0,0,0,0
+Bureaucrat,Base,Action - Attack,4,0,0,0,0,0,0,0,1,0
+Cellar,Base,Action,2,1,1,0,0,0,0,0,0,0
+Chapel,Base,Action,2,0,0,0,0,1,0,0,0,0
+Council_Room,Base,Action,5,0,1,1,0,0,0,0,0,0
+Duchy,Base,Victory,5,0,0,0,0,0,0,0,0,1
+Estate,Base,Victory,2,0,0,0,0,0,0,0,0,1
+Festival,Base,Action,5,1,0,1,1,0,0,0,0,0
+Gardens,Base,Victory,4,0,0,0,0,0,0,0,0,1
+Laboratory,Base,Action,5,1,1,0,0,0,0,0,0,0
+Library,Base,Action,5,0,1,0,0,0,0,0,0,0
+Market,Base,Action,5,1,1,1,1,0,0,0,0,0
+Militia,Base,Action - Attack,4,0,0,0,1,0,0,0,0,0
+Mine,Base,Action,5,0,0,0,0,1,0,0,1,0
+Moat,Base,Action - Reaction,2,0,1,0,0,0,0,0,0,0
+Moneylender,Base,Action,4,0,0,0,1,1,0,0,0,0
+Province,Base,Victory,8,0,0,0,0,0,0,0,0,1
+Remodel,Base,Action,4,0,0,0,0,1,0,0,1,0
+Smithy,Base,Action,4,0,1,0,0,0,0,0,0,0
+Throne_Room,Base,Action,4,1,0,0,0,0,0,0,0,0
+Village,Base,Action,3,1,1,0,0,0,0,0,0,0
+Witch,Base,Action - Attack,5,0,1,0,0,0,0,1,0,0
+Workshop,Base,Action,3,0,0,0,0,0,0,0,1,0
+Adventurer,"Base, 1E",Action,6,0,1,0,0,0,0,0,0,0
+Chancellor,"Base, 1E",Action,3,0,0,0,1,0,0,0,0,0
+Feast,"Base, 1E",Action,4,0,0,0,0,1,0,0,1,0
+Spy,"Base, 1E",Action - Attack,4,1,1,0,0,0,0,0,0,0
+Thief,"Base, 1E",Action - Attack,4,0,0,0,0,0,0,0,1,0
+Woodcutter,"Base, 1E",Action,3,0,0,1,1,0,0,0,0,0
+Artisan,"Base, 2E",Action,6,0,0,0,0,0,0,0,1,0
+Bandit,"Base, 2E",Action - Attack,5,0,0,0,0,0,0,0,1,0
+Harbinger,"Base, 2E",Action,3,1,1,0,0,0,0,0,0,0
+Merchant,"Base, 2E",Action,3,1,1,0,1,0,0,0,0,0
+Poacher,"Base, 2E",Action,4,1,1,0,1,0,0,0,0,0
+Sentry,"Base, 2E",Action,5,1,1,0,0,1,0,0,0,0
+Vassal,"Base, 2E",Action,3,0,0,0,1,0,0,0,0,0
+Fairgrounds,Cornucopia,Victory,6,0,0,0,0,0,0,0,0,1
+Farming_Village,Cornucopia,Action,4,1,1,0,0,0,0,0,0,0
+Fortune_Teller,Cornucopia,Action - Attack,3,0,0,0,1,0,0,0,0,0
+Hamlet,Cornucopia,Action,2,1,1,1,0,0,0,0,0,0
+Harvest,Cornucopia,Action,5,0,0,0,1,0,0,0,0,0
+Horn_of_Plenty,Cornucopia,Treasure,5,0,0,0,0,1,0,0,1,0
+Horse_Traders,Cornucopia,Action - Reaction,4,0,1,1,1,0,0,0,0,0
+Hunting_Party,Cornucopia,Action,5,1,1,0,0,0,0,0,0,0
+Jester,Cornucopia,Action - Attack,5,0,0,0,1,0,1,1,0,0
+Menagerie,Cornucopia,Action,3,1,1,0,0,0,0,0,0,0
+Remake,Cornucopia,Action,4,0,0,0,0,1,0,0,1,0
+Tournament,Cornucopia,Action,4,1,1,0,1,0,0,0,1,1
+Young_Witch,Cornucopia,Action - Attack,4,0,1,0,0,0,0,1,0,0
+Altar,Dark Ages,Action,6,0,0,0,0,1,0,0,1,0
+Armory,Dark Ages,Action,4,0,0,0,0,0,0,0,1,0
+Band_of_Misfits,Dark Ages,Action - Command,5,0,0,0,0,0,0,0,0,0
+Bandit_Camp,Dark Ages,Action,5,1,1,0,0,0,0,0,1,0
+Beggar,Dark Ages,Action - Reaction,2,0,0,0,1,0,0,1,1,0
+Catacombs,Dark Ages,Action,5,0,1,0,0,0,0,0,0,0
+Count,Dark Ages,Action,5,0,1,0,1,1,0,1,1,1
+Counterfeit,Dark Ages,Treasure,5,0,0,1,1,1,0,0,0,0
+Cultist,Dark Ages,Action - Attack - Looter,5,1,1,0,0,0,0,1,0,0
+Dame_Anna,Dark Ages,Action - Attack - Knight,5,0,0,0,0,1,0,0,0,0
+Dame_Josephine,Dark Ages,Action - Attack - Victory - Knight,5,0,0,0,0,1,0,0,0,1
+Dame_Molly,Dark Ages,Action - Attack - Knight,5,1,0,0,0,1,0,0,0,0
+Dame_Natalie,Dark Ages,Action - Attack - Knight,5,0,0,0,0,1,0,0,1,0
+Dame_Sylvia,Dark Ages,Action - Attack - Knight,5,0,0,0,1,1,0,0,0,0
+Death_Cart,Dark Ages,Action - Looter,4,0,0,0,1,1,0,0,0,0
+Feodum,Dark Ages,Victory,4,0,0,0,0,0,0,0,1,1
+Forager,Dark Ages,Action,3,1,0,1,1,1,0,0,0,0
+Fortress,Dark Ages,Action,4,1,1,0,0,0,0,0,0,0
+Graverobber,Dark Ages,Action,5,0,0,0,0,1,0,0,1,0
+Hermit,Dark Ages,Action,3,0,0,0,0,1,0,0,1,0
+Hunting_Grounds,Dark Ages,Action,6,0,1,0,0,0,0,0,0,1
+Ironmonger,Dark Ages,Action,4,1,1,0,1,0,0,0,0,0
+Junk_Dealer,Dark Ages,Action,5,1,1,0,1,1,0,0,0,0
+Marauder,Dark Ages,Action - Attack - Looter,4,0,0,0,0,0,0,1,1,0
+Market_Square,Dark Ages,Action - Reaction,3,1,1,1,0,0,0,0,0,0
+Mystic,Dark Ages,Action,5,1,1,0,1,0,0,0,0,0
+Pillage,Dark Ages,Action - Attack,5,0,0,0,0,1,0,0,1,0
+Poor_House,Dark Ages,Action,1,0,0,0,1,0,0,0,0,0
+Procession,Dark Ages,Action,4,1,0,0,0,1,0,0,1,0
+Rats,Dark Ages,Action,4,1,1,0,0,0,0,0,0,0
+Rebuild,Dark Ages,Action,5,1,0,0,0,1,0,0,1,0
+Rogue,Dark Ages,Action - Attack,5,0,0,0,1,0,0,0,1,0
+Sage,Dark Ages,Action,3,1,1,0,0,0,0,0,0,0
+Scavenger,Dark Ages,Action,4,0,0,0,1,0,0,0,0,0
+Sir_Bailey,Dark Ages,Action - Attack - Knight,5,1,1,0,0,1,0,0,0,0
+Sir_Destry,Dark Ages,Action - Attack - Knight,5,0,1,0,0,1,0,0,0,0
+Sir_Martin,Dark Ages,Action - Attack - Knight,4,0,0,1,0,1,0,0,0,0
+Sir_Michael,Dark Ages,Action - Attack - Knight,5,0,0,0,0,1,0,0,0,0
+Sir_Vander,Dark Ages,Action - Attack - Knight,5,0,0,0,0,1,0,0,1,0
+Squire,Dark Ages,Action,2,1,0,1,1,0,0,0,1,0
+Storeroom,Dark Ages,Action,3,0,1,1,1,0,0,0,0,0
+Urchin,Dark Ages,Action - Attack,3,1,1,0,0,1,0,0,1,0
+Vagrant,Dark Ages,Action,2,1,1,0,0,0,0,0,0,0
+Wandering_Minstrel,Dark Ages,Action,4,1,1,0,0,0,0,0,0,0
+Archive,Empires,Action - Duration,5,1,1,0,0,0,0,0,0,0
+Bustling_Village,Empires,Action,5,1,1,0,0,0,0,0,0,0
+Capital,Empires,Treasure,5,0,0,1,1,0,0,0,0,0
+Catapult,Empires,Action - Attack,3,0,0,0,1,1,0,1,0,0
+Chariot_Race,Empires,Action,3,1,1,0,1,0,0,0,0,1
+Charm,Empires,Treasure,5,0,0,1,1,0,0,0,1,0
+City_Quarter,Empires,Action,8,1,1,0,0,0,0,0,0,0
+Crown,Empires,Action - Treasure,5,1,0,0,0,0,0,0,0,0
+Emporium,Empires,Action,5,1,1,0,1,0,0,0,0,1
+Encampment,Empires,Action,2,1,1,0,0,1,0,0,0,0
+Enchantress,Empires,Action - Attack - Duration,3,0,1,0,0,0,0,0,0,0
+Engineer,Empires,Action,4,0,0,0,0,1,0,0,1,0
+Farmers'_Market,Empires,Action - Gathering,3,0,0,1,1,1,0,0,0,1
+Fortune,Empires,Treasure,16,0,0,1,1,0,0,0,0,0
+Forum,Empires,Action,5,1,1,1,0,0,0,0,0,0
+Gladiator,Empires,Action,3,0,0,0,1,0,0,0,0,0
+Groundskeeper,Empires,Action,5,1,1,0,0,0,0,0,0,1
+Humble_Castle,Empires,Treasure - Victory - Castle,3,0,0,0,1,0,0,0,0,1
+Legionary,Empires,Action - Attack,5,0,0,0,1,0,0,0,0,0
+Opulent_Castle,Empires,Action - Victory - Castle,7,0,1,0,1,0,0,0,0,1
+Overlord,Empires,Action - Command,8,0,0,0,0,0,0,0,0,0
+Patrician,Empires,Action,2,1,1,0,0,0,0,0,0,0
+Plunder,Empires,Treasure,5,0,0,0,1,0,0,0,0,1
+Rocks,Empires,Treasure,4,0,1,0,1,0,0,0,1,0
+Royal_Blacksmith,Empires,Action,8,0,1,0,0,0,0,0,0,0
+Sacrifice,Empires,Action,4,1,1,0,1,1,0,0,0,1
+Settlers,Empires,Action,2,1,1,0,1,0,0,0,0,0
+Small_Castle,Empires,Action - Victory - Castle,5,0,0,0,0,1,0,0,1,1
+Temple,Empires,Action - Gathering,4,0,0,0,0,1,0,0,0,1
+Villa,Empires,Action,4,1,0,0,0,0,0,0,0,0
+Wild_Hunt,Empires,Action - Gathering,5,0,1,0,0,0,0,0,1,1
+Advisor,Guilds,Action,4,1,1,0,0,0,0,0,0,0
+Baker,Guilds,Action,5,1,1,0,1,0,0,0,0,0
+Butcher,Guilds,Action,5,0,0,0,1,1,0,1,0,0
+Candlestick_Maker,Guilds,Action,2,1,0,1,1,0,0,0,0,0
+Doctor,Guilds,Action,3,0,0,0,0,1,0,0,0,0
+Herald,Guilds,Action,4,1,1,0,0,0,0,0,0,0
+Journeyman,Guilds,Action,5,0,1,0,0,0,0,0,0,0
+Masterpiece,Guilds,Treasure,3,0,0,0,1,0,0,0,1,0
+Merchant_Guild,Guilds,Action,5,0,0,1,1,0,0,0,0,0
+Plaza,Guilds,Action,4,1,1,0,1,0,0,0,0,0
+Soothsayer,Guilds,Action - Attack,5,0,0,0,0,0,0,1,1,0
+Stonemason,Guilds,Action,2,0,0,0,0,1,0,0,1,0
+Taxman,Guilds,Action - Attack,4,0,0,0,0,1,0,0,1,0
+Border_Village,Hinterlands,Action,6,1,1,0,0,0,0,0,1,0
+Cache,Hinterlands,Treasure,5,0,0,0,1,0,0,1,0,0
+Cartographer,Hinterlands,Action,5,1,1,0,0,0,0,0,0,0
+Crossroads,Hinterlands,Action,2,1,1,0,0,0,0,0,0,0
+Develop,Hinterlands,Action,3,0,0,0,0,1,0,0,1,0
+Duchess,Hinterlands,Action,2,0,0,0,1,0,0,0,0,0
+Embassy,Hinterlands,Action,5,0,1,0,0,0,0,0,0,0
+Farmland,Hinterlands,Victory,6,0,0,0,0,1,0,0,1,1
+Fool's_Gold,Hinterlands,Treasure - Reaction,2,0,0,0,1,0,0,0,0,0
+Haggler,Hinterlands,Action,5,0,0,0,1,0,0,0,1,0
+Highway,Hinterlands,Action,5,1,1,0,1,0,0,0,0,0
+Ill-Gotten_Gains,Hinterlands,Treasure,5,0,0,0,1,0,0,1,0,0
+Inn,Hinterlands,Action,5,1,1,0,0,0,0,0,0,0
+Jack_of_All_Trades,Hinterlands,Action,4,0,1,0,0,1,0,0,1,0
+Mandarin,Hinterlands,Action,5,0,1,0,1,0,0,0,0,0
+Margrave,Hinterlands,Action - Attack,5,0,1,1,0,0,0,0,0,0
+Noble_Brigand,Hinterlands,Action - Attack,4,0,0,0,1,0,0,1,0,0
+Nomad_Camp,Hinterlands,Action,4,0,0,1,1,0,0,0,0,0
+Oasis,Hinterlands,Action,3,1,1,0,1,0,0,0,0,0
+Oracle,Hinterlands,Action - Attack,3,0,1,0,0,0,0,0,0,0
+Scheme,Hinterlands,Action,3,1,1,0,0,0,0,0,0,0
+Silk_Road,Hinterlands,Victory,4,0,0,0,0,0,0,0,0,1
+Spice_Merchant,Hinterlands,Action,4,1,1,1,1,1,0,0,0,0
+Stables,Hinterlands,Action,5,1,1,0,0,0,0,0,0,0
+Trader,Hinterlands,Action - Reaction,4,0,0,0,0,1,0,0,1,0
+Tunnel,Hinterlands,Victory - Reaction,3,0,0,0,0,0,0,0,1,1
+Baron,Intrigue,Action,4,0,0,1,1,0,0,0,1,0
+Bridge,Intrigue,Action,4,0,0,1,1,0,0,0,0,0
+Conspirator,Intrigue,Action,4,1,1,0,1,0,0,0,0,0
+Courtyard,Intrigue,Action,2,0,1,0,0,0,0,0,0,0
+Duke,Intrigue,Victory,5,0,0,0,0,0,0,0,0,1
+Harem,Intrigue,Treasure - Victory,6,0,0,0,1,0,0,0,0,1
+Ironworks,Intrigue,Action,4,1,1,0,1,0,0,0,1,0
+Masquerade,Intrigue,Action,3,0,1,0,0,1,0,0,0,0
+Mining_Village,Intrigue,Action,4,1,1,0,1,1,0,0,0,0
+Minion,Intrigue,Action - Attack,5,1,1,0,1,0,0,0,0,0
+Nobles,Intrigue,Action - Victory,6,1,1,0,0,0,0,0,0,1
+Pawn,Intrigue,Action,2,1,1,1,1,0,0,0,0,0
+Shanty_Town,Intrigue,Action,3,1,1,0,0,0,0,0,0,0
+Steward,Intrigue,Action,3,0,1,0,1,1,0,0,0,0
+Swindler,Intrigue,Action - Attack,3,0,0,0,1,0,0,0,0,0
+Torturer,Intrigue,Action - Attack,5,0,1,0,0,0,0,1,0,0
+Trading_Post,Intrigue,Action,5,0,0,0,0,1,0,0,1,0
+Upgrade,Intrigue,Action,5,1,1,0,0,1,0,0,1,0
+Wishing_Well,Intrigue,Action,3,1,1,0,0,0,0,0,0,0
+Coppersmith,"Intrigue, 1E",Action,4,0,0,0,1,0,0,0,0,0
+Great_Hall,"Intrigue, 1E",Action - Victory,3,1,1,0,0,0,0,0,0,1
+Saboteur,"Intrigue, 1E",Action - Attack,5,0,0,0,0,0,0,0,0,0
+Scout,"Intrigue, 1E",Action,4,1,1,0,0,0,0,0,0,0
+Secret_Chamber,"Intrigue, 1E",Action - Reaction,2,0,1,0,1,0,0,0,0,0
+Tribute,"Intrigue, 1E",Action,5,1,1,0,1,0,0,0,0,0
+Courtier,"Intrigue, 2E",Action,5,1,0,1,1,0,0,0,1,0
+Diplomat,"Intrigue, 2E",Action - Reaction,4,1,1,0,0,0,0,0,0,0
+Lurker,"Intrigue, 2E",Action,2,1,0,0,0,1,0,0,1,0
+Mill,"Intrigue, 2E",Action - Victory,4,1,1,0,1,0,0,0,0,1
+Patrol,"Intrigue, 2E",Action,5,0,1,0,0,0,0,0,0,0
+Replace,"Intrigue, 2E",Action - Attack,5,0,0,0,0,1,0,1,1,0
+Secret_Passage,"Intrigue, 2E",Action,4,1,1,0,0,0,0,0,0,0
+Animal_Fair,Menagerie,Action,7,0,0,1,1,0,0,0,0,0
+Barge,Menagerie,Action - Duration,5,0,1,1,0,0,0,0,0,0
+Black_Cat,Menagerie,Action - Attack - Reaction,2,0,1,0,0,0,0,1,0,0
+Bounty_Hunter,Menagerie,Action,4,1,0,0,1,0,1,0,0,0
+Camel_Train,Menagerie,Action,3,0,0,0,0,0,0,0,0,0
+Cardinal,Menagerie,Action - Attack,4,0,0,0,1,0,0,0,0,0
+Cavalry,Menagerie,Action,4,0,1,1,0,0,0,0,1,0
+Coven,Menagerie,Action - Attack,5,1,0,0,1,0,0,1,0,0
+Destrier,Menagerie,Action,6,1,1,0,0,0,0,0,0,0
+Displace,Menagerie,Action,5,0,0,0,0,0,1,0,1,0
+Falconer,Menagerie,Action - Reaction,5,0,0,0,0,0,0,0,1,0
+Fisherman,Menagerie,Action,5,1,1,0,1,0,0,0,0,0
+Gatekeeper,Menagerie,Action - Duration - Attack,5,0,0,0,1,0,0,0,0,0
+Goatherd,Menagerie,Action,3,1,1,0,0,1,0,0,0,0
+Groom,Menagerie,Action,4,1,1,0,0,0,0,0,1,0
+Hostelry,Menagerie,Action,4,1,1,0,0,0,0,0,0,0
+Hunting_Lodge,Menagerie,Action,5,1,1,0,0,0,0,0,0,0
+Kiln,Menagerie,Action,5,0,0,0,1,0,0,0,1,0
+Livery,Menagerie,Action,5,0,0,0,1,0,0,0,1,0
+Mastermind,Menagerie,Action - Duration,5,1,0,0,0,0,0,0,0,0
+Paddock,Menagerie,Action,5,1,0,0,1,0,0,0,1,0
+Sanctuary,Menagerie,Action,5,1,1,1,0,0,1,0,0,0
+Scrap,Menagerie,Action,3,1,1,1,1,1,0,0,1,0
+Sheepdog,Menagerie,Action - Reaction,3,0,1,0,0,0,0,0,0,0
+Sleigh,Menagerie,Action - Reaction,2,0,0,0,0,0,0,0,1,0
+Snowy_Village,Menagerie,Action,3,1,1,1,0,0,0,0,0,0
+Stockpile,Menagerie,Treasure,3,0,0,1,1,0,1,0,0,0
+Supplies,Menagerie,Treasure,2,0,0,0,1,0,0,0,1,0
+Village_Green,Menagerie,Action - Duration - Reaction,4,1,1,0,0,0,0,0,0,0
+Wayfarer,Menagerie,Action,6,0,1,0,0,0,0,0,1,0
+Bard,Nocturne,Action - Fate,4,0,0,0,1,0,0,0,0,0
+Blessed_Village,Nocturne,Action - Fate,4,1,1,0,0,0,0,0,0,0
+Changeling,Nocturne,Night,3,0,0,0,0,1,0,0,1,0
+Cobbler,Nocturne,Night - Duration,5,0,0,0,0,0,0,0,1,0
+Conclave,Nocturne,Action,4,1,0,0,1,0,0,0,0,0
+Crypt,Nocturne,Night - Duration,5,0,1,0,0,0,0,0,0,0
+Cursed_Village,Nocturne,Action - Doom,5,1,1,0,0,0,0,0,0,0
+Den_of_Sin,Nocturne,Night - Duration,4,0,1,0,0,0,0,0,0,0
+Devil's_Workshop,Nocturne,Night,2,0,0,0,0,0,0,0,1,0
+Druid,Nocturne,Action - Fate,2,0,0,1,0,0,0,0,0,0
+Exorcist,Nocturne,Night,4,0,0,0,0,1,0,0,1,0
+Faithful_Hound,Nocturne,Action - Reaction,2,0,1,0,0,0,0,0,0,0
+Fool,Nocturne,Action - Fate,3,0,0,0,0,0,0,0,0,0
+Ghost,Nocturne,Night - Duration - Spirit,2,0,0,0,0,0,0,0,0,0
+Ghost_Town,Nocturne,Night - Duration,3,1,1,0,0,0,0,0,0,0
+Guardian,Nocturne,Night - Duration,2,0,0,0,1,0,0,0,0,0
+Idol,Nocturne,Treasure - Attack - Fate,3,0,0,0,1,0,0,1,0,0
+Leprechaun,Nocturne,Action - Doom,4,0,0,0,0,0,0,0,1,0
+Monastery,Nocturne,Night,2,0,0,0,0,1,0,0,0,0
+Necromancer,Nocturne,Action,4,0,0,0,0,0,0,0,0,0
+Night_Watchman,Nocturne,Night,5,0,0,0,0,0,0,0,0,0
+Pasture,Nocturne,Treasure - Victory - Heirloom,2,0,0,0,1,0,0,0,0,1
+Pixie,Nocturne,Action - Fate,2,1,1,0,0,1,0,0,0,0
+Pooka,Nocturne,Action,5,0,1,0,0,1,0,0,0,0
+Raider,Nocturne,Night - Duration - Attack,4,0,0,0,1,0,0,0,0,0
+Sacred_Grove,Nocturne,Action - Fate,5,0,0,1,1,0,0,0,0,0
+Secret_Cave,Nocturne,Action - Duration,3,1,1,0,1,0,0,0,0,0
+Shepherd,Nocturne,Action,4,1,1,0,0,0,0,0,0,0
+Skulk,Nocturne,Action - Attack - Doom,4,0,0,1,0,0,0,0,1,0
+Tormentor,Nocturne,Action - Attack - Doom,5,0,0,0,1,0,0,0,1,0
+Tracker,Nocturne,Action - Fate,5,0,0,0,1,0,0,0,0,0
+Tragic_Hero,Nocturne,Action,5,0,1,1,0,1,0,0,1,0
+Vampire,Nocturne,Night - Attack - Doom,3,0,0,0,0,1,0,0,1,0
+Werewolf,Nocturne,Action - Night - Attack - Doom,3,0,1,0,0,0,0,0,0,0
+Avanto,Promo,Action,5,1,1,0,0,0,0,0,0,0
+Black_Market,Promo,Action,3,0,0,0,1,0,0,0,0,0
+Captain,Promo,Action - Duration - Command,6,1,0,0,0,0,0,0,0,0
+Church,Promo,Action - Duration,3,1,1,0,0,1,0,0,0,0
+Dismantle,Promo,Action,4,0,0,0,0,1,0,0,1,0
+Envoy,Promo,Action,4,0,1,0,0,0,0,0,0,0
+Governor,Promo,Action,5,1,1,0,0,1,0,0,1,0
+Prince,Promo,Action - Duration,8,1,0,0,0,0,0,0,0,0
+Sauna,Promo,Action,4,1,1,0,0,1,0,0,0,0
+Stash,Promo,Treasure,5,0,0,0,1,0,0,0,0,0
+Walled_Village,Promo,Action,4,1,1,0,0,0,0,0,0,0
+Bank,Prosperity,Treasure,7,0,0,0,1,0,0,0,0,0
+Bishop,Prosperity,Action,4,0,0,0,1,1,0,0,0,1
+City,Prosperity,Action,5,1,1,1,1,0,0,0,0,0
+Contraband,Prosperity,Treasure,5,0,0,1,1,0,0,0,0,0
+Counting_House,Prosperity,Action,5,0,1,0,0,0,0,0,0,0
+Expand,Prosperity,Action,7,0,0,0,0,1,0,0,1,0
+Forge,Prosperity,Action,7,0,0,0,0,1,0,0,1,0
+Goons,Prosperity,Action - Attack,6,0,0,1,1,0,0,0,0,1
+Grand_Market,Prosperity,Action,6,1,1,1,1,0,0,0,0,0
+Hoard,Prosperity,Treasure,6,0,0,0,1,0,0,0,1,0
+King's_Court,Prosperity,Action,7,1,0,0,0,0,0,0,0,0
+Loan,Prosperity,Treasure,3,0,0,0,1,1,0,0,0,0
+Mint,Prosperity,Action,5,0,0,0,0,1,0,0,1,0
+Monument,Prosperity,Action,4,0,0,0,1,0,0,0,0,1
+Mountebank,Prosperity,Action - Attack,5,0,0,0,1,0,0,1,0,0
+Peddler,Prosperity,Action,8,1,1,0,1,0,0,0,0,0
+Quarry,Prosperity,Treasure,4,0,0,0,1,0,0,0,0,0
+Rabble,Prosperity,Action - Attack,5,0,1,0,0,0,0,0,0,0
+Royal_Seal,Prosperity,Treasure,5,0,0,0,1,0,0,0,0,0
+Talisman,Prosperity,Treasure,4,0,0,0,1,0,0,0,1,0
+Trade_Route,Prosperity,Action,3,0,0,1,1,1,0,0,0,0
+Vault,Prosperity,Action,5,0,1,0,1,0,0,0,0,0
+Venture,Prosperity,Treasure,5,0,0,0,1,0,0,0,0,0
+Watchtower,Prosperity,Action - Reaction,3,0,1,0,0,0,0,0,0,0
+Worker's_Village,Prosperity,Action,4,1,1,1,0,0,0,0,0,0
+Acting_Troupe,Renaissance,Action,3,1,0,0,0,1,0,0,0,0
+Border_Guard,Renaissance,Action,2,1,1,0,0,0,0,0,0,0
+Cargo_Ship,Renaissance,Action - Duration,3,0,1,0,1,0,0,0,0,0
+Ducat,Renaissance,Treasure,2,0,0,1,1,1,0,0,0,0
+Experiment,Renaissance,Action,3,1,1,0,0,1,0,0,1,0
+Flag_Bearer,Renaissance,Action,4,0,0,0,1,0,0,0,0,0
+Hideout,Renaissance,Action,4,1,1,0,0,1,0,1,0,0
+Improve,Renaissance,Action,3,0,0,0,1,1,0,0,1,0
+Inventor,Renaissance,Action,4,0,0,0,1,0,0,0,1,0
+Lackeys,Renaissance,Action,2,1,1,0,0,0,0,0,0,0
+Mountain_Village,Renaissance,Action,4,1,1,0,0,0,0,0,0,0
+Old_Witch,Renaissance,Action - Attack,5,0,1,0,0,0,0,1,0,0
+Patron,Renaissance,Action - Reaction,4,1,0,0,1,0,0,0,0,0
+Priest,Renaissance,Action,4,0,0,0,1,1,0,0,0,0
+Recruiter,Renaissance,Action,5,1,1,0,0,1,0,0,0,0
+Research,Renaissance,Action - Duration,4,1,1,0,0,1,0,0,0,0
+Scepter,Renaissance,Treasure,5,1,0,0,1,0,0,0,0,0
+Scholar,Renaissance,Action,5,0,1,0,0,0,0,0,0,0
+Sculptor,Renaissance,Action,5,1,0,0,0,0,0,0,1,0
+Seer,Renaissance,Action,5,1,1,0,0,0,0,0,0,0
+Silk_Merchant,Renaissance,Action,4,1,1,0,0,0,0,0,0,0
+Spices,Renaissance,Treasure,5,0,0,1,1,0,0,0,0,0
+Swashbuckler,Renaissance,Action,5,0,1,0,1,0,0,0,0,0
+Treasurer,Renaissance,Action,5,0,0,0,1,1,0,0,1,0
+Villain,Renaissance,Action - Attack,5,0,0,0,1,0,0,0,0,0
+Ambassador,Seaside,Action - Attack,3,0,0,0,0,1,0,1,0,0
+Bazaar,Seaside,Action,5,1,1,0,1,0,0,0,0,0
+Caravan,Seaside,Action - Duration,4,1,1,0,0,0,0,0,0,0
+Cutpurse,Seaside,Action - Attack,4,0,0,0,1,0,0,0,0,0
+Embargo,Seaside,Action,2,0,0,0,1,1,0,1,0,0
+Explorer,Seaside,Action,5,0,0,0,0,0,0,0,1,0
+Fishing_Village,Seaside,Action - Duration,3,1,0,0,1,0,0,0,0,0
+Ghost_Ship,Seaside,Action - Attack,5,0,1,0,0,0,0,0,0,0
+Haven,Seaside,Action - Duration,2,1,1,0,0,0,0,0,0,0
+Island,Seaside,Action - Victory,4,0,0,0,0,1,0,0,0,1
+Lighthouse,Seaside,Action - Duration,2,1,0,0,1,0,0,0,0,0
+Lookout,Seaside,Action,3,1,0,0,0,1,0,0,0,0
+Merchant_Ship,Seaside,Action - Duration,5,0,0,0,1,0,0,0,0,0
+Native_Village,Seaside,Action,2,1,1,0,0,0,0,0,0,0
+Navigator,Seaside,Action,4,0,0,0,1,0,0,0,0,0
+Outpost,Seaside,Action - Duration,5,0,0,0,0,0,0,0,0,0
+Pearl_Diver,Seaside,Action,2,1,1,0,0,0,0,0,0,0
+Pirate_Ship,Seaside,Action - Attack,4,0,0,0,1,0,0,0,0,0
+Salvager,Seaside,Action,4,0,0,1,1,1,0,0,0,0
+Sea_Hag,Seaside,Action - Attack,4,0,0,0,0,0,0,1,0,0
+Smugglers,Seaside,Action,3,0,0,0,0,0,0,0,1,0
+Tactician,Seaside,Action - Duration,5,1,1,1,0,0,0,0,0,0
+Treasure_Map,Seaside,Action,4,0,0,0,0,1,0,0,1,0
+Treasury,Seaside,Action,5,1,1,0,1,0,0,0,0,0
+Warehouse,Seaside,Action,3,1,1,0,0,0,0,0,0,0
+Wharf,Seaside,Action - Duration,5,0,1,1,0,0,0,0,0,0
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

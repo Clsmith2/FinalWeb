@@ -1,0 +1,56 @@
+{% load static %}
+
+
+
+<link rel="stylesheet" href="{% static 'css/style.css' %}">
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+<body>
+    <div id="app">
+        <button @click="count++">
+          Count is: {{ count }}
+        </button>
+      </div>
+    <div id="app">
+        <p>{{chosenName}}</p>
+        <button @click="picker">Choose!</button>
+      </div>
+        <center>
+        <h1><a>{{ title }}</a></h1>
+        <h2> Submit whos playing and select the desired set distribution
+        </h2>
+        </center>
+        <div class = 'names'>
+        {% block conent %}
+        <h1>Randomize Order</h1>
+        <h4>Enter names followed by a comma then press submit. (Order will be displayed next page)</h4>
+        {% for name in names_list %}
+            {{ name.name }}
+        {% endfor %}
+        
+        {% endblock %}
+
+
+        <form action="/" method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            {{ form }}
+            <input type="submit" value="Submit">
+        </form> 
+    </div>
+
+</body>
+
+<script src="https://unpkg.com/vue@3"></script>
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script src="{% static 'js/vue.js' %}"></script>
+<script src="{% static 'js/vendor/jquery.js' %}"></script>
+<script src="{% static 'js/vendor/what-input.js' %}"></script>
+<script src="{% static 'js/vendor/foundation.min.js' %}"></script>
+</html>
