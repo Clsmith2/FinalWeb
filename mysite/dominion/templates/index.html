@@ -13,38 +13,50 @@
 
 </head>
 <body>
-    <div id="app">
-        <button @click="count++">
-          Count is: {{ count }}
-        </button>
-      </div>
-    <div id="app">
-        <p>{{chosenName}}</p>
-        <button @click="picker">Choose!</button>
-      </div>
-        <center>
+    <center>
         <h1><a>{{ title }}</a></h1>
-        <h2> Submit whos playing and select the desired set distribution
-        </h2>
-        </center>
-        <div class = 'names'>
-        {% block conent %}
-        <h1>Randomize Order</h1>
-        <h4>Enter names followed by a comma then press submit. (Order will be displayed next page)</h4>
-        {% for name in names_list %}
-            {{ name.name }}
-        {% endfor %}
-        
-        {% endblock %}
+            <h2> Submit whos playing and select the desired set distribution</h2>
+            <img src="{% static '/background/banner.png' %}" alt="My image"
+                width = "600"
+                height="200"
+                style = "position:relative; top:-45px;"/>
 
-
-        <form action="/" method="post" enctype="multipart/form-data">
-            {% csrf_token %}
-            {{ form }}
-            <input type="submit" value="Submit">
-        </form> 
+    </center>
+    <div id="intro", class="names" >
+        <p>Enter a list of names seperated by commas.<p>
     </div>
-
+    <div id="form", class="names">
+      <form 
+        style = "position: relative; width: 380px;">
+        <input type="text" id="list">
+          <br>
+        <input type="button" value="Generate" id="button">
+      </form>
+    </div>
+    <div id="results", class="names">
+      <div>
+      </div>  
+    </div>
+    <div id ="kingdom">
+      <p v-if="myImage0.length > 0" style = "position: relative; top: -300px">
+        <img v-bind:src="myImage0" style="width:186px;height:300px;">
+        <img v-bind:src="myImage1" style="width:186px;height:300px;">
+        <img v-bind:src="myImage2" style="width:186px;height:300px;">
+        <img v-bind:src="myImage3" style="width:186px;height:300px;">
+        <img v-bind:src="myImage4" style="width:186px;height:300px;">
+      </p>
+      <p v-if="myImage0.length > 0" style = "position: relative; top: -324px">
+        <img v-bind:src="myImage5" style="width:186px;height:300px;">
+        <img v-bind:src="myImage6" style="width:186px;height:300px;">
+        <img v-bind:src="myImage7" style="width:186px;height:300px;">
+        <img v-bind:src="myImage8" style="width:186px;height:300px;">
+        <img v-bind:src="myImage9" style="width:186px;height:300px;">
+        <p>{{card}}</p>
+      </p>
+      <div style ="position: fixed; left: 0; bottom: 0; width:100%; text-align: center">
+        <button @click="click({{data}})">Generate Kingdom</button>
+      </div>
+    </div>
 </body>
 
 <script src="https://unpkg.com/vue@3"></script>

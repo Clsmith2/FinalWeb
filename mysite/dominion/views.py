@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from django.http import HttpResponse
 from django.http import JsonResponse
+from json import dumps
 # editing view.py file
 from . import models
 from . import forms
@@ -16,16 +17,27 @@ def index(request, page=0):
     else:
         form = forms.NamesForm()
     data_list = {}
-    data_list["names"] = []
-    names_list = models.NamesModel.objects.all()
-    for name in names_list:
-        name_instance = {}
-        name_instance["name"] = name.name
-        data_list["names"].append(name_instance)
+    data_list["cards"] = []
+    cards_list = models.KingdomCardModel.objects.all()
+    for name in cards_list:
+        card_instance = {}
+        card_instance["name"] = name.Name
+        data_list["cards"].append(card_instance)
     context = { 
-        'names_list': names_list,
+        'cards_list': cards_list,
         "title": "Dominion Card Randomizer",
         "data": data_list, 
         "form": form   
     }
     return render(request, 'index.html', context = context)
+
+
+def getCards(request):
+    data_list = {}
+    data_list["cards"] = []
+    cards_list = models.KingdomCardModel.objects.all()
+    for name in cards_list:
+        card_instance = {}
+        card_instance["name"] = name.Name
+        data_list["cards"].append(card_instance)
+    return JsonResponse(data_list)
