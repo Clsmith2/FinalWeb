@@ -8,6 +8,4 @@ class NamesForm(forms.Form):
 
 
     def save(self):
-        name_instance = models.NamesModel()
-        name_instance.name = self.cleaned_data["name_field"]
-        name_instance.save()
+        return self.cleaned_data["name_field"]

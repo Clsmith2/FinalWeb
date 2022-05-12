@@ -14,16 +14,10 @@ body {
     padding: 8px 12px;
     background-image: linear-gradient(180deg, #fff, rgb(229, 228, 228) 40%, rgb(229, 226, 226));
 }
-.box{
-    width: 20em;
-    border: 1px solid #333;
-    box-shadow: rgb(214, 23, 186) 0px 5px, rgba(214, 23, 186, 0.3) 0px 10px, rgba(214, 23, 186, 0.2) 0px 15px, rgba(214, 23, 186, 0.1) 0px 20px, rgba(214, 23, 186, 0.05) 0px 25px;
-    padding: 8px 12px;
-    background-image: linear-gradient(180deg, #fff, rgb(229, 228, 228) 40%, rgb(229, 226, 226));
-}
- 
+
 p{
     font-size: 1.5em;
+    font-weight: bold;
     text-align: center;
     color: #1422bb;
 }
@@ -35,6 +29,10 @@ button{
   width: 7%;
   padding: 1em;
   font-size: 1.2em;
+  cursor: pointer; 
+}
+button:hover{
+  background-color:rgba(119, 119, 119, 0.8);
 }
 
 input[type=button]{
@@ -42,9 +40,21 @@ input[type=button]{
     color: #231b90;
     font-weight: bold;
     font-family: Copperplate, monospace;
-    width: 50%;
+    width: 100%;
     padding: 1em;
     font-size: 1.5em;
+    cursor: pointer;  
+}
+
+input[type=button]:hover {
+  background-color:rgba(67, 67, 67, 0.8);
+}
+
+input[type=text2]{
+  width: 12%;
+  padding: 0.7em;
+  margin: 0.5em;
+  font-size: 1em;
 }
 
 input[type=text]{
@@ -54,10 +64,23 @@ input[type=text]{
     font-size: 1em;
 }
   
-#results {
+#names {
     color: #1f17b0;
     font-weight: bold;
     font-size: 1.5em;
     width: 376px;
     padding: 1em;
+}
+label{
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+
+.title{
+  width: 25em;
+  border: 1px solid #333;
+  box-shadow: rgb(214, 23, 186) 0px 5px, rgba(214, 23, 186, 0.3) 0px 10px, rgba(214, 23, 186, 0.2) 0px 15px, rgba(214, 23, 186, 0.1) 0px 20px, rgba(214, 23, 186, 0.05) 0px 25px;
+  padding: 8px 12px;
+  background-image: linear-gradient(180deg, rgb(133, 139, 255), rgb(229, 228, 228) 40%, rgb(229, 226, 226));
 }

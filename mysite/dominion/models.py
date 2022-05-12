@@ -15,4 +15,5 @@ class KingdomCardModel(models.Model):
     Victory_Points = models.CharField(max_length=20, default="0")
 
 class NamesModel(models.Model):
+    
     name = models.CharField(max_length = 50, default ="Your Name")
