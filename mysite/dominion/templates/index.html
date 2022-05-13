@@ -13,7 +13,7 @@
 
 </head>
 <body>
-  <div>
+  <div class="names">
   {% block content %}
   {% if user.is_authenticated %}
     Hi {{ user.username }}!
@@ -23,25 +23,6 @@
     <a href="{% url 'login' %}">Log In</a>
   {% endif %}
   {% endblock %}
-  </div>
-  <div> 
-    What chat room would you like to enter?<br>
-    <input id="room-name-input" type="text" size="100"><br>
-    <input id="room-name-submit" type="button" value="Enter">
-
-    <script>
-        document.querySelector('#room-name-input').focus();
-        document.querySelector('#room-name-input').onkeyup = function(e) {
-            if (e.keyCode === 13) {  // enter, return
-                document.querySelector('#room-name-submit').click();
-            }
-        };
-
-        document.querySelector('#room-name-submit').onclick = function(e) {
-            var roomName = document.querySelector('#room-name-input').value;
-            window.location.pathname = roomName + '/';
-        };
-    </script>
   </div>
     <center>
       <div>
@@ -53,18 +34,41 @@
                 height="200"
                 style = "position:relative; top:-45px;"/>
     </center>
+    <div class="chat"> 
+      <p><b>Live chat room</b></p>
+      <p>Enter a name to join a room</p>
+      <br>
+      <input id="room-name-input" type="text" size="100"><br>
+      <input id="room-name-submit" type="button" value="Enter">
+  
+      <script>
+          document.querySelector('#room-name-input').focus();
+          document.querySelector('#room-name-input').onkeyup = function(e) {
+              if (e.keyCode === 13) {  // enter, return
+                  document.querySelector('#room-name-submit').click();
+              }
+          };
+  
+          document.querySelector('#room-name-submit').onclick = function(e) {
+              var roomName = document.querySelector('#room-name-input').value;
+              window.location.pathname = roomName + '/';
+          };
+      </script>
+    </div>  
     <div class="names" >
+      <div >
         <p>Enter a list of names seperated by commas<p>
+      </div>
+      <div>
+        <form 
+          style = "position: relative; width: 380px;">
+          <input type="text" id="input">
+          <input type="button" value="Randomize" id="button">
+        </form>
+      </div>
+    <div id="names">
     </div>
-    <div class="names">
-      <form 
-        style = "position: relative; width: 380px;">
-        <input type="text" id="input">
-        <input type="button" value="Randomize" id="button">
-      </form>
-    </div>
-    <div id="names", class="names">
-    </div>
+  </div>
     <div class="names" style="position: relative; top: 150px">
       <p>Select the desired set distribution (total should be 10 or less)</p>
         <label>Adventures</label>
@@ -84,7 +88,7 @@
         <br>
         <label>Empires</label>
         <input type="text2" id="Empires" value="0">
-        <label>Adventures</label>
+        <label>Guilds</label>
         <input type="text2" id="Guilds" value="0">
         <br>
         <label>Hinterlands</label>
@@ -124,7 +128,7 @@
         <img v-bind:src="myImage8" style="width:186px;height:300px;">
         <img v-bind:src="myImage9" style="width:186px;height:300px;">
       </p>
-      <div style ="position: fixed; left: 0; bottom: 0; width:100%; text-align: center">
+      <div style ="position: fixed; left: 0; bottom: 0; width:100%; text-align: center; margin: auto;">
         <button @click="click()">Generate Kingdom</button>
       </div>
     </div>

@@ -38,3 +38,8 @@ class SignUp(CreateView):
     form_class = UserCreationForm
     success_url = reverse_lazy("login")
     template_name = "registration/signup.html"
+
+def room(request, room_name):
+    return render(request, 'room.html', {
+        'room_name': room_name
+    })
