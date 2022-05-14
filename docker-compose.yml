@@ -17,10 +17,10 @@ services:
   redis:
     image: redis:latest
     expose:
-      - 6379
+        - 6379
 
   nginx:
-    build: ./nginx/
+    build: ./mysite/nginx/
     ports:
       - 80:80
     links:
