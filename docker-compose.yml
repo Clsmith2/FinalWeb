@@ -11,7 +11,7 @@ services:
        - redis
     expose:
        - 8000
-    user: 1001:1002 ## needed for linux
+    user: 1002:1003 ## needed for linux
     command: python /code/mysite/manage.py runserver 0.0.0.0:8000
 
   redis:
